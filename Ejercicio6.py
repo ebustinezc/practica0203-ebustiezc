@@ -4,4 +4,3 @@ m = 0
 for x in range(edad):
     print(m+1)
     m=m+1
-input()

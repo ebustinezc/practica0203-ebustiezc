@@ -6,4 +6,3 @@ while n != m:
     print('CONTRASEÑA INCORRECTA')
     m = input('Vuelve a introducir la contraseña:')
 print('CONTRASEÑA CORRECTA:)')
-input()

@@ -7,4 +7,3 @@ if edad > 16 and (sueldo >= 1000):
     print('tienes que tribitar')
 else:
     print('No tienes que tributar')
-input()
